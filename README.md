@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maurof00
-- 👀 I’m interested in Java, HTML, CSS & Python.
-- 🌱 I’m currently learning Java & HTML.
-- 📫 How to reach me: Dscord -> maurof00
+- 👋 Ciao, sono @maurof00
+- 👀 Mi interessa Java, HTML-CSS, C++ & Python.
+- 🌱 Sto imparando Java & C++.
+- 📫 Contattami: Dscord -> maurof00, Telegram -> maurof00
