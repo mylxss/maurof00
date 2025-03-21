@@ -1,4 +1,4 @@
-- 👋 Ciao, sono @maurof00
+- 👋 Ciao, sono mylxss
 - 👀 Mi interessa Java, HTML-CSS, C++ & JavaScript.
 - 🌱 Sto imparando Java & C++.
-- 📫 Contattami: Dscord -> maurof00, Telegram -> maurof00
+- 📫 Contattami: Dscord -> _mylxss, Telegram -> maurof00
